@@ -1,0 +1,15 @@
+/home/ppari/Repos/CovertToMilitaryTime/bin/Debug/net6.0/ConvertToMilitaryTime
+/home/ppari/Repos/CovertToMilitaryTime/bin/Debug/net6.0/ConvertToMilitaryTime.deps.json
+/home/ppari/Repos/CovertToMilitaryTime/bin/Debug/net6.0/ConvertToMilitaryTime.runtimeconfig.json
+/home/ppari/Repos/CovertToMilitaryTime/bin/Debug/net6.0/ConvertToMilitaryTime.dll
+/home/ppari/Repos/CovertToMilitaryTime/bin/Debug/net6.0/ConvertToMilitaryTime.pdb
+/home/ppari/Repos/CovertToMilitaryTime/obj/Debug/net6.0/ConvertToMilitaryTime.csproj.AssemblyReference.cache
+/home/ppari/Repos/CovertToMilitaryTime/obj/Debug/net6.0/ConvertToMilitaryTime.GeneratedMSBuildEditorConfig.editorconfig
+/home/ppari/Repos/CovertToMilitaryTime/obj/Debug/net6.0/ConvertToMilitaryTime.AssemblyInfoInputs.cache
+/home/ppari/Repos/CovertToMilitaryTime/obj/Debug/net6.0/ConvertToMilitaryTime.AssemblyInfo.cs
+/home/ppari/Repos/CovertToMilitaryTime/obj/Debug/net6.0/ConvertToMilitaryTime.csproj.CoreCompileInputs.cache
+/home/ppari/Repos/CovertToMilitaryTime/obj/Debug/net6.0/ConvertToMilitaryTime.dll
+/home/ppari/Repos/CovertToMilitaryTime/obj/Debug/net6.0/refint/ConvertToMilitaryTime.dll
+/home/ppari/Repos/CovertToMilitaryTime/obj/Debug/net6.0/ConvertToMilitaryTime.pdb
+/home/ppari/Repos/CovertToMilitaryTime/obj/Debug/net6.0/ConvertToMilitaryTime.genruntimeconfig.cache
+/home/ppari/Repos/CovertToMilitaryTime/obj/Debug/net6.0/ref/ConvertToMilitaryTime.dll
